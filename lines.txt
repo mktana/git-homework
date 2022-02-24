@@ -1,3 +1,5 @@
 curved
 dotted
 vertical
+horizontal
+diagonal
