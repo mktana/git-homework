@@ -2,3 +2,5 @@ Oak
 pine
 palm
 willow
+Elm
+beech
