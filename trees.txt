@@ -6,3 +6,5 @@ Elm
 beech
 apple
 grape
+plum
+pear
