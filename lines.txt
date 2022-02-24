@@ -5,3 +5,5 @@ horizontal
 diagonal
 zigzag
 straight
+wavy
+parallel lines
