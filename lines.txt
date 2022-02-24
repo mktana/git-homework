@@ -3,3 +3,5 @@ dotted
 vertical
 horizontal
 diagonal
+zigzag
+straight
